@@ -112,7 +112,7 @@
     <color name="croppable_image_grid_color">#ccccd6dd</color>
     <color name="custom_push_primary_color">@color/blue_600</color>
     <color name="custom_push_primary_dark_color">@color/blue_600</color>
-    <color name="dark_blue">#ff024e9a</color>
+    <color name="dark_blue">@android:color/system_accent1_300</color>
     <color name="dark_green">#ff295c47</color>
     <color name="dark_grey">@color/gray_700</color>
     <color name="dark_orange">#ff965a28</color>
@@ -562,7 +562,7 @@
     <color name="ps__black_70">#b3000000</color>
     <color name="ps__black_80">#cd000000</color>
     <color name="ps__black_scrim">@color/ps__black_70</color>
-    <color name="ps__blue">#ff40a4c4</color>
+    <color name="ps__blue">@android:color/system_accent1_500</color>
     <color name="ps__broadcast_editing_save_changes_green">#ff98ce61</color>
     <color name="ps__card_outline">#ffe1e1e1</color>
     <color name="ps__channel_info_background">#ff40a4c4</color>
@@ -584,7 +584,7 @@
     <color name="ps__hydra_red">#fffa6354</color>
     <color name="ps__invite_numfollowers">#ff424c51</color>
     <color name="ps__invite_username">#ffa4b8be</color>
-    <color name="ps__light_blue">#ff7cd6f1</color>
+    <color name="ps__light_blue">@android:color/system_accent1_100</color>
     <color name="ps__light_grey">#ffa4b8be</color>
     <color name="ps__light_grey_20">#33a4b8be</color>
     <color name="ps__light_grey_30">#4ca4b8be</color>
@@ -782,13 +782,13 @@
     <color name="teal_700">#ff00777c</color>
     <color name="teal_800">#ff005a5f</color>
     <color name="teal_900">#ff003e42</color>
-    <color name="tertiary">@color/gray_200</color>
+    <color name="tertiary">@android:color/system_accent2_600</color>
     <color name="test_color">#ff000000</color>
     <color name="text">@color/text_black</color>
     <color name="text_black">@color/gray_1100</color>
     <color name="text_black_opacity_15">#260f1419</color>
     <color name="text_black_opacity_50">#800f1419</color>
-    <color name="text_blue">#ff1b95e0</color>
+    <color name="text_blue">@android:color/system_accent1_200</color>
     <color name="text_disabled">@color/tertiary</color>
     <color name="title_blue">@color/twitter_blue</color>
     <color name="tombstone_background_color">@color/gray_0</color>
@@ -839,3 +839,4 @@
     <color name="yellow_700">#ffb88200</color>
     <color name="yellow_800">#ff955900</color>
     <color name="yellow_900">#ff6f3e00</color>
+</resources>
