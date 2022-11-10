@@ -86,6 +86,7 @@
     <color name="clear">#00000000</color>
     <color name="clip_card_background">@color/purple_500</color>
     <color name="clip_track_zoom_out">#ff43515a</color>
+    <color name="commerce_product_tint_color">#08000000</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
@@ -194,8 +195,9 @@
     <color name="exo_styled_error_message_background">#80808080</color>
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
-    <color name="fab_background_color">@color/white</color>
-    <color name="fab_ripple_color">@color/white</color>
+    <color name="fab_menu_item_background_color">@color/white</color>
+    <color name="fab_menu_item_ripple_color">@color/twitter_blue_opacity_30</color>
+    <color name="fab_ripple_color">#33ffffff</color>
     <color name="faded_gray_lights_out_75">#bf121517</color>
     <color name="fleet_audio_space_gradient">#3d794bc4</color>
     <color name="fleet_avatar_border_color">@color/white</color>
